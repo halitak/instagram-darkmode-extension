@@ -1,0 +1,20 @@
+{
+    "name": "Instagram Dark Mode",
+    "version": "1.0",
+    "description": "Dark Mode",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.instagram.com/*"
+            ],
+            "run_at": "document_idle",
+            "css": [
+                "styles.css"
+            ]
+        }
+    ],
+    "manifest_version": 2
+}

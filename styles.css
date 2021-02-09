@@ -1,0 +1,48 @@
+:root {
+    --i1d: 220,220,220 !important; /* text color */
+    --edc: 180,180,180 !important; /* footer link text color */
+    --f75: 220,220,220 !important; /* post header text color */
+    --fe0: 0,149,246 !important  /* cooment link text color */;
+    --d87: 0,0,0 !important; /* body bg color */
+    --b3f: 0,0,0 !important; /* body bg color */
+    --bb2: 20,20,20 !important; /* loader bg color */
+    --f23: 20,20,20 !important; /* dropdown shadow color */
+    --b38: 100,100,100 !important; /* dropdown border color */
+    --b6a: 100,100,100 !important; /* border color */
+    --ca6: 100,100,100 !important; /* input border color */
+    --cdd: 0,255,0 !important; /* ? */
+    --e22: 0,255,0 !important; /* ? */
+    --e62: 0,255,0 !important; /* ? */
+    --b2f: 0,255,0 !important; /* ? */
+    --c8c: 220,220,220 !important; /* search box border color on focus */
+    --ce3: 100,100,100 !important; /* post body border color */
+    --jd9: 0,255,0 !important; /* ? */
+    --j64: 0,255,0 !important; /* ? */
+    --a97: 0,255,0 !important; /* ? */
+    --d20: 0,255,0 !important; /* ? */
+
+    --f52: 180,180,180 !important; /* text color */
+    --h1d: 0,255,0 !important; /* ? */
+    --de5: 0,255,0 !important; /* ? */
+    --d69: 0,149,246 !important; /* follow button text color */
+    --b86: 0,255,0 !important; /* ? */
+    --i30: 237,73,86 !important; /* danger text color */
+    --d62: 0,255,0 !important; /* ? */
+    --e4f: 0,255,0 !important; /* ? burada */
+    --a72: 0,255,0 !important; /* ? */
+    --ie3: 0,255,0 !important; /* ? */
+    --c37: 220,220,220 !important; /* home notification color */
+    --f24: 0,255,0 !important; /* ? */
+    --jbb: 0,255,0 !important; /* ? */
+    --eca: 0,0,0 !important; /* facebook bg color */
+    --jb7: 100,100,100 !important; /* loader story border color */
+    --fa7: 0,255,0 !important; /* ? */
+    --ba8: 168,168,168 !important; /* slider dots color */ 
+    --eac: 0,255,0 !important; /* ? */
+}
+.s4Iyt{
+    filter: invert(1);
+}
+svg {
+    fill: rgb(220,220,220);
+}
